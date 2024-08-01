@@ -16,4 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshgupta19&show_icons=true&locale=en" alt="riteshgupta19" /></p>
 
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshgupta19&" alt="riteshgupta19" /></p>
