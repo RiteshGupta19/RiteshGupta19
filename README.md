@@ -69,8 +69,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+ 
 
+![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false)
+
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=dark&hide_border=true)
 
 ![Total Contributions](https://komarev.com/ghpvc/?username=RiteshGupta19&label=Total+Profile+Views&color=blue)
@@ -79,10 +86,10 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgupta19&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--![](https://github-readme-stats.vercel.app/api?username=riteshgupta19&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=riteshgupta19&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riteshgupta19&theme=radical&hide_border=false)
-
+-->
 
 <!-- <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
