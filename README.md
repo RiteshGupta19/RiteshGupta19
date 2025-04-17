@@ -75,22 +75,24 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" alt="Contribution Streak"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
+      <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" alt="Contribution Streak"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td >
       <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+    </td>
+    <td >
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About M
 
  
 
