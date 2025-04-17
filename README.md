@@ -2,7 +2,12 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+RITESH+GUPTA...;MERN+STACK+DEVELOPER...;Nice+To+Meet+You+....&center=true"></a></p>
-    
+    <p align="center">
+      🚀 Passionate MERN Stack Developer with a knack for building efficient, scalable web apps.<br/>
+      💻 Currently working at Termscript Data Solutions on TulipSchoolERP.<br/>
+      ☁️ Skilled in DevOps & Cloud tools like AWS, GCP, Docker, and Kubernetes.<br/>
+      🎓 MCA Graduate | Always eager to learn & collaborate on exciting projects!
+    </p>
 
  📫 reach me at **riteshgupta0968@gmail.com**
 
