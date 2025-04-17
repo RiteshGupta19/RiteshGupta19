@@ -6,7 +6,7 @@
 
  📫 reach me at **riteshgupta0968@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3
 <p align="left">
 <a href="https://linkedin.com/in/riteshgupta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riteshgupta19" height="30" width="40" /></a>
 <a href="https://instagram.com/ritesh_gupta.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh_gupta.19" height="30" width="40" /></a>
@@ -69,6 +69,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=dark&hide_border=true)
+
+![Total Contributions](https://komarev.com/ghpvc/?username=RiteshGupta19&label=Total+Profile+Views&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=dark)
+
 
 <!-- <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
