@@ -2,12 +2,13 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+RITESH+GUPTA...;MERN+STACK+DEVELOPER...;Nice+To+Meet+You+....&center=true"></a></p>
-<p align="center">
-  <span style="color:#E22FE4;">🚀 Passionate MERN Stack Developer</span> <span style="color:#ffffff;">with a knack for building efficient, scalable web apps.</span><br/>
-  <span style="color:#F9D923;">💻 Currently working at</span> <span style="color:#00C9A7;">Termscript Data Solutions</span> <span style="color:#F9D923;">on</span> <span style="color:#00C9A7;">TulipSchoolERP</span>.<br/>
-  <span style="color:#38B6FF;">☁️ Skilled in DevOps & Cloud tools like</span> <span style="color:#FF6F61;">AWS, GCP, Docker</span> <span style="color:#38B6FF;">and</span> <span style="color:#FF6F61;">Kubernetes</span>.<br/>
-  <span style="color:#CBAACB;">🎓 MCA Graduate</span> <span style="color:#ffffff;">| Always eager to learn & collaborate on exciting projects!</span>
+<p align="center" style="color:#FF6F61;">
+  🚀 Passionate MERN Stack Developer with a flair for creating efficient, scalable web apps.<br/>
+  💻 Currently contributing to <strong>Termscript Data Solutions</strong> on the innovative <strong>TulipSchoolERP</strong> project.<br/>
+  ☁️ Adept in DevOps & Cloud tools like AWS, GCP, Docker, and Kubernetes.<br/>
+  🎓 MCA Graduate | Continuously seeking growth and ready to collaborate on groundbreaking projects!
 </p>
+
 
 
  📫 reach me at **riteshgupta0968@gmail.com**
