@@ -69,6 +69,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" alt="Contribution Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About M
+
  
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
@@ -76,6 +99,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
 
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=dark&hide_border=true)
@@ -156,7 +183,4 @@
 
   
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
