@@ -88,11 +88,11 @@
     <img 
       src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" 
       alt="Contribution Streak" 
-      style="width: 63%; height: 200px; max-width: 600px;"/>
+      style="width: 60%; height: 200px; max-width: 700px;"/>
     <img 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
       alt="About Me GIF" 
-      style="width: 36%; height: 200px; max-width: 600px; object-fit: contain;"/>
+      style="width: 40%; height: 200px; max-width: 500px; object-fit: contain;"/>
   </div>
 
   <br/>
