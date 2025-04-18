@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ritesh_gupta.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh_gupta.19" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="210px">  
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="330px">  
 
 
 
