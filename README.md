@@ -84,8 +84,8 @@
   <img 
     src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false" 
     alt="Contribution Streak" 
-    width="630px" 
-    style="max-width: 630px;" 
+    width="590px" 
+    style="max-width: 590px;" 
   />
 </p>
 
