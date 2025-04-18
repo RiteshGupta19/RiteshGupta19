@@ -15,25 +15,25 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; width: 100%;">
+<table>
+  <tr>
+    <td>
+      <h3>Connect with me:</h3>
+      <p>
+        <a href="https://linkedin.com/in/riteshgupta19" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="https://instagram.com/ritesh_gupta.19" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        </a>
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" />
+    </td>
+  </tr>
+</table>
 
-  <div style="display: flex; flex-direction: column;">
-    <h3 style="margin: 0;">Connect with me:</h3>
-    <p style="margin-top: 5px;">
-      <a href="https://linkedin.com/in/riteshgupta19" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-      <a href="https://instagram.com/ritesh_gupta.19" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </p>
-  </div>
-
-  <div>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" style="max-width: 100%; height: auto;" />
-  </div>
-
-</div>
 
 
 
