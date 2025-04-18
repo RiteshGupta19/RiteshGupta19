@@ -83,11 +83,11 @@
 
 <table style="border: none;">
   <tr>
-    <td style="border: none;">
+    <td  >
       <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=true" alt="Contribution Streak"/>
     </td>
     <td style="border: none;">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"/>
+      <img style="border: none;" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"/>
     </td>
   </tr>
 </table>
