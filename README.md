@@ -12,7 +12,9 @@
 
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">  
- 📫 reach me at **riteshgupta0968@gmail.com**
+### 📬 Reach me at:  
+**Email:** [riteshgupta0968@gmail.com](mailto:riteshgupta0968@gmail.com)  
+**Phone:** [+91 9172486340](tel:+919172486340)
 
 
 
