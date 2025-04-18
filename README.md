@@ -80,46 +80,21 @@
   </a>
 </p>
 
+![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
 
-<div align="center">
-  <!-- First Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img 
-      src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" 
-      alt="Contribution Streak" 
-      style="width: 60%; height: 200px; max-width: 700px;"/>
-    <img 
-      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-      alt="About Me GIF" 
-      style="width: 90%; height: 200px; max-width: 500px; object-fit: contain;"/>
-  </div>
-
-  <br/>
-
-  <!-- Second Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
-      alt="Top Languages" 
-      style="width: 70%; height: 200px; max-width: 450px; object-fit: contain;"/>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
-      alt="GitHub Stats" 
-       style="width: 60%; height: 200px; max-width: 700px;"/>
-  </div>
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
 
  
 
-<!--![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
+ ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/> -->
+<br/>  
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
 
