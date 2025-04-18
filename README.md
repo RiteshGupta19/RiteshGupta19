@@ -81,6 +81,17 @@
 </p>
 
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" alt="Contribution Streak"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"/>
+</div>
+
+<br/>
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+</div>
 
 
 
