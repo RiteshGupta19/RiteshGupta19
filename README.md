@@ -1,24 +1,4 @@
-<style>
-  .flex-row {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
 
-  .img-fixed {
-    height: 200px;
-    width: 48%;
-    min-width: 280px;
-  }
-
-  @media (max-width: 768px) {
-    .img-fixed {
-      width: 100%;
-    }
-  }
-</style>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+RITESH+GUPTA...;MERN+STACK+DEVELOPER...;Nice+To+Meet+You+....&center=true"></a></p>
@@ -103,35 +83,41 @@
 
 
 
-<!-- First Row -->
-<div class="flex-row">
-  <img 
-    src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" 
-    alt="Contribution Streak" 
-    class="img-fixed"
-  />
-  <img 
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-    alt="About Me GIF" 
-    class="img-fixed"
-    style="object-fit: contain;"
-  />
-</div>
+<div align="center">
+  <!-- First Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img 
+      src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" 
+      alt="Contribution Streak" 
+      width="48%" 
+      height="200px"
+    />
+    <img 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+      alt="About Me GIF" 
+      width="48%" 
+      height="200px"
+      style="object-fit: contain;"
+    />
+  </div>
 
-<br/>
+  <br/>
 
-<!-- Second Row -->
-<div class="flex-row">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
-    alt="Top Languages" 
-    class="img-fixed"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
-    alt="GitHub Stats" 
-    class="img-fixed"
-  />
+  <!-- Second Row -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
+      alt="Top Languages" 
+      width="48%" 
+      height="200px"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
+      alt="GitHub Stats" 
+      width="48%" 
+      height="200px"
+    />
+  </div>
 </div>
 
 
