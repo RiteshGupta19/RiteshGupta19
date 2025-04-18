@@ -100,8 +100,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 200px; width: 430px; min-width: 430px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 180px; width: 430px; min-width: 430px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 180px;" />
 </div>
 <br/>  
 
