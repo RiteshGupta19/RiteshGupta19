@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+RITESH+GUPTA...;MERN+STACK+DEVELOPER...;Nice+To+Meet+You+....&center=true"></a></p>
 <p align="center" style="color:#FF6F61;">
   🚀 Passionate MERN Stack Developer with a flair for creating efficient, scalable web apps.<br/>
-  💻 Currently contributing to <strong>Termscript Data Solutions</strong> on the innovative <strong>TulipSchoolERP</strong> project.<br/>
+  💻 Currently working as a Software Developer at <strong>Termscript Data Solutions</strong>, contributing to the development of a scalable SaaS product.<br/>
   ☁️ Adept in DevOps & Cloud tools like AWS, GCP, Docker, and Kubernetes.<br/>
   🎓 MCA Graduate | Continuously seeking growth and ready to collaborate on groundbreaking projects!
 </p>
@@ -100,8 +100,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 180px; " />
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 180px; " />
 </div>
 <br/>  
 
