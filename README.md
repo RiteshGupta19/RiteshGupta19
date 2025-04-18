@@ -92,7 +92,7 @@
     <img 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
       alt="About Me GIF" 
-      style="width: 80%; height: 200px; max-width: 500px; object-fit: contain;"/>
+      style="width: 90%; height: 200px; max-width: 500px; object-fit: contain;"/>
   </div>
 
   <br/>
@@ -102,11 +102,11 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
       alt="Top Languages" 
-      style="width: 38%; height: 200px; max-width: 600px;"/>
+      style="width: 90%; height: 200px; max-width: 500px; object-fit: contain;"/>
     <img 
       src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
       alt="GitHub Stats" 
-      style="width: 63%; height: 200px; max-width: 600px;"/>
+       style="width: 60%; height: 200px; max-width: 700px;"/>
   </div>
 </div>
 
