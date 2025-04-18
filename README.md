@@ -100,7 +100,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 200px; width: 330px; min-width: 330px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 200px; width: 400px; min-width: 400px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 200px;" />
 </div>
 <br/>  
