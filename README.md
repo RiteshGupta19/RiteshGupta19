@@ -90,6 +90,66 @@
   </a>
 </p>
 
+
+
+
+## :zap: Skills
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/linux.gif" height="70" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70" />
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/gcp.gif" height="70" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/azure.gif" height="75" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80" />
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="80" />
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="80" />
+</a>
+<a href="https://gitlab.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/gitlab.gif" height="80" />
+</a>
+<a href="https://www.visualstudio.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Visual_Studio_2019_Logo.svg" height="80" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/nodejs.gif" height="80" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.gif" height="80" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongodb.gif" height="80" />
+</a>
+
+### Monitoring
+
+<p float="left">
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+  </a>
+</p>
+
+
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false" 
