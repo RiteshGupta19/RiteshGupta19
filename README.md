@@ -12,12 +12,12 @@
 
 
  📫 reach me at **riteshgupta0968@gmail.com**
-<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
 
 
 
-  <p style="margin: 0;">
 <h3 align="left">Connect with me:</h3>
+<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <p style="margin: 0;">
     <a href="https://linkedin.com/in/riteshgupta19" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
