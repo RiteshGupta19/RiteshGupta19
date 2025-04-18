@@ -82,41 +82,31 @@
 
 
 
-
 <div align="center">
   <!-- First Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img 
       src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false" 
       alt="Contribution Streak" 
-      width="48%" 
-      height="200px"
-    />
+      style="width: 63%; height: 200px; max-width: 600px;"/>
     <img 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
       alt="About Me GIF" 
-      width="48%" 
-      height="200px"
-      style="object-fit: contain;"
-    />
+      style="width: 36%; height: 200px; max-width: 600px; object-fit: contain;"/>
   </div>
 
   <br/>
 
   <!-- Second Row -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
       alt="Top Languages" 
-      width="48%" 
-      height="200px"
-    />
+      style="width: 38%; height: 200px; max-width: 600px;"/>
     <img 
       src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
       alt="GitHub Stats" 
-      width="48%" 
-      height="200px"
-    />
+      style="width: 63%; height: 200px; max-width: 600px;"/>
   </div>
 </div>
 
