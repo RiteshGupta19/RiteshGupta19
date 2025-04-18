@@ -81,16 +81,6 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false" 
-    alt="Contribution Streak" 
-    style="width: 90%; max-width: 400px; " 
-  />
-</p>
-
-
-
 ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
