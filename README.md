@@ -12,12 +12,23 @@
 
 
  📫 reach me at **riteshgupta0968@gmail.com**
+<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
 
-<h3 align="left">Connect with me:</h3
-<p align="left">
-<a href="https://linkedin.com/in/riteshgupta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riteshgupta19" height="30" width="40" /></a>
-<a href="https://instagram.com/ritesh_gupta.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh_gupta.19" height="30" width="40" /></a>
-</p>
+
+
+  <p style="margin: 0;">
+<h3 align="left">Connect with me:</h3>
+    <a href="https://linkedin.com/in/riteshgupta19" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/ritesh_gupta.19" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+  </p>
+
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" style="max-width: 100%; height: auto;" />
+
+</div>
 
 
 
@@ -84,13 +95,13 @@
   <img 
     src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false" 
     alt="Contribution Streak" 
-    width="590px" 
-    style="max-width: 590px;" 
+    width="560px" 
+    style="max-width: 560px;" 
   />
 </p>
 
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
