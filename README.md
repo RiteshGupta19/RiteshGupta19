@@ -99,9 +99,10 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 200px;" />
+</div>
 <br/>  
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
