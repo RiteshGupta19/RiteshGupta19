@@ -89,21 +89,29 @@
 <br/>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
+    alt="Top Languages" 
+    style="height: 200px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
+    alt="GitHub Stats"
+    style="height: 200px;"
+  />
 </div>
 
 
 
  
 
-![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
+<!--![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+<br/> -->
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
 
