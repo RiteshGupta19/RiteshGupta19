@@ -82,16 +82,12 @@
 
 
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<h3>Languages and Tools (Animated):</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_q5pk6p1k.json" background="transparent" speed="1" style="width: 80px; height: 80px;" loop autoplay></lottie-player>
+  <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_1pxqjqps.json" background="transparent" speed="1" style="width: 80px; height: 80px;" loop autoplay></lottie-player>
+</div>
 
-<lottie-player
-  src="https://assets2.lottiefiles.com/packages/lf20_oGlWy5.json"
-  background="transparent"
-  speed="1"
-  style="width: 80px; height: 80px;"
-  loop
-  autoplay>
-</lottie-player>
 
 
 
