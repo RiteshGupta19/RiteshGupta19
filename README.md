@@ -92,7 +92,7 @@
     <img 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
       alt="About Me GIF" 
-      style="width: 40%; height: 200px; max-width: 500px; object-fit: contain;"/>
+      style="width: 80%; height: 200px; max-width: 500px; object-fit: contain;"/>
   </div>
 
   <br/>
