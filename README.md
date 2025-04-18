@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=true" alt="Contribution Streak" width="100%"/>
+  ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
 </p>
 
 
