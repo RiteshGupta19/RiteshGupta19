@@ -80,13 +80,38 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <!-- First Row: First and Second Images -->
+    <td>
+      ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
+    </td>
+    <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+    </td>
+  </tr>
+  <tr>
+    <!-- Second Row: Third and Fourth Images -->
+    <td>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
+    </td>
+    <td>
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
+    </td>
+  </tr>
+</table>
+
+
+
+
 ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>  
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RiteshGupta19.RiteshGupta19.svg)
