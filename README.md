@@ -1,4 +1,24 @@
+<style>
+  .flex-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
+  .img-fixed {
+    height: 200px;
+    width: 48%;
+    min-width: 280px;
+  }
+
+  @media (max-width: 768px) {
+    .img-fixed {
+      width: 100%;
+    }
+  }
+</style>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+RITESH+GUPTA...;MERN+STACK+DEVELOPER...;Nice+To+Meet+You+....&center=true"></a></p>
@@ -81,27 +101,7 @@
 </p>
 
 
-<style>
-  .flex-row {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
 
-  .img-fixed {
-    height: 200px;
-    width: 48%;
-    min-width: 280px;
-  }
-
-  @media (max-width: 768px) {
-    .img-fixed {
-      width: 100%;
-    }
-  }
-</style>
 
 <!-- First Row -->
 <div class="flex-row">
