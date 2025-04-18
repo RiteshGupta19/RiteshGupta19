@@ -81,25 +81,25 @@
 </p>
 
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
- ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</div>
-
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px; margin-top: 10px;">
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false" alt="Contribution Streak"/>
+    </td>
+    <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"/>
+    </td>
+  </tr>
+</table>
 
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=RiteshGupta19&theme=transparent&hide_border=false)
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false)
 
 <br/>  
 
