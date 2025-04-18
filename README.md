@@ -11,11 +11,11 @@
 
 
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">  
  📫 reach me at **riteshgupta0968@gmail.com**
 
 
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px">  
 <h3 align="left">Connect with me:</h3
 <p align="left">
 <a href="https://linkedin.com/in/riteshgupta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riteshgupta19" height="30" width="40" /></a>
@@ -100,7 +100,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 180px; width: 430px; min-width: 430px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=transparent&layout=compact&hide_border=false" alt="Top Languages" style="height: 180px; " />
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" style="height: 180px;" />
 </div>
 <br/>  
