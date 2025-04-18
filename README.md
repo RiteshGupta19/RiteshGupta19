@@ -102,7 +102,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGupta19&theme=radical&layout=compact&hide_border=false" 
       alt="Top Languages" 
-      style="width: 90%; height: 200px; max-width: 500px; object-fit: contain;"/>
+      style="width: 70%; height: 200px; max-width: 450px; object-fit: contain;"/>
     <img 
       src="https://github-readme-stats.vercel.app/api?username=RiteshGupta19&show_icons=true&theme=radical&hide_border=false" 
       alt="GitHub Stats" 
