@@ -118,7 +118,7 @@ const riteshGupta = {
 ```
 
 ---
-
+<!--
 ## 🌟 Quick Stats
 
 <div align="center">
@@ -128,7 +128,7 @@ const riteshGupta = {
 ![Years Badge](https://badges.pufler.dev/years/RiteshGupta19?style=for-the-badge&color=blue)
 
 </div>
-
+-->
 ---
 
 <div align="center">
