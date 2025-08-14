@@ -45,6 +45,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills"/>
 </div>
+
 ### **Mobile Development**
 <div align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -53,7 +54,7 @@
 
 ### **Backend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,firebase" alt="Backend Skills"/>
 </div>
 
 ### **Database & Storage**
@@ -108,19 +109,23 @@
 -->
 ---
 
-## 💼 Professional Highlights
-
-```typescript
-const riteshGupta = {
-  currentRole: "Software Developer",
-  company: "Termscript Data Solutions",
-  expertise: ["MERN Stack", "DevOps", "Cloud Solutions"],
-  currentFocus: ["Next.js 14", "TypeScript", "Microservices", "Cloud Architecture"],
-  learning: ["Web3 Technologies", "AI/ML Integration", "Advanced System Design"],
-  goals: ["Build impactful products", "Contribute to open source", "Mentor developers"],
-  funFact: "I turn coffee into scalable code! ☕➡️💻"
+💼 Professional Highlights
+typescriptconst riteshGupta = {
+  currentRole: "Software Engineer",
+  company: "Termscript Data Solutions India Pvt Ltd",
+  experience: "1+ years",
+  expertise: ["MERN Stack", "React Native", "DevOps", "Cloud Solutions"],
+  currentFocus: ["Next.js 14", "TypeScript", "GCP Deployment", "Scalable Architectures"],
+  achievements: [
+    "Improved app performance by 20% through optimization",
+    "Built TulipSchoolERP - Complete SaaS platform",
+    "Reduced manual workload by 40% through automation"
+  ],
+  learning: ["Microservices", "Advanced System Design", "Cloud Architecture"],
+  goals: ["Build impactful SaaS products", "Master cloud technologies", "Contribute to open source"],
+  funFact: "I turn coffee into scalable code and deploy it to the cloud! ☕➡️💻☁️"
 };
-```
+
 
 ---
 <!--
