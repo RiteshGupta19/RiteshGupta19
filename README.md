@@ -109,23 +109,6 @@
 -->
 ---
 
-💼 Professional Highlights
-typescriptconst riteshGupta = {
-  currentRole: "Software Engineer",
-  company: "Termscript Data Solutions India Pvt Ltd",
-  experience: "1+ years",
-  expertise: ["MERN Stack", "React Native", "DevOps", "Cloud Solutions"],
-  currentFocus: ["Next.js 14", "TypeScript", "GCP Deployment", "Scalable Architectures"],
-  achievements: [
-    "Improved app performance by 20% through optimization",
-    "Built TulipSchoolERP - Complete SaaS platform",
-    "Reduced manual workload by 40% through automation"
-  ],
-  learning: ["Microservices", "Advanced System Design", "Cloud Architecture"],
-  goals: ["Build impactful SaaS products", "Master cloud technologies", "Contribute to open source"],
-  funFact: "I turn coffee into scalable code and deploy it to the cloud! ☕➡️💻☁️"
-};
-
 
 ---
 <!--
