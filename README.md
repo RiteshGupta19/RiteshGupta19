@@ -43,7 +43,12 @@
 
 ### **Frontend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills"/>
+</div>
+### **Mobile Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </div>
 
 ### **Backend Development**
